@@ -14,11 +14,12 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- ⚾️ I like a baseball;
-- 👨🏽‍💻 I’m currently working on [NAVER Corp](https://www.naver.com);
-- 🥋 I am training hard on DDD(DDD Light) and TDD;
-- 📫 How to reach me: [Facebook](https://www.facebook.com/jaceshim.kr);
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+
+- ⚾️ I like a baseball 
+- 👨🏽‍💻 I’m currently working on [NAVER Corp](https://www.naver.com) 
+- 🥋 I am training hard on DDD(DDD Light) and TDD 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/jaceshim.kr) 
 
 **Languages and Tools:** 
 
